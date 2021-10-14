@@ -13,6 +13,11 @@ contact me :- [AYUSH](https://t.me/request_ayush)
 
 # Slam Mirror Bot
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
+# watch this video for full instructions
+<p><a href="https://www.youtube.com/watch?v=4Dq_yWxWtQQ">video 1 </a></p> ( with SA accounts and mega.nz )
+<p><a href="https://www.youtube.com/watch?v=F58_LKXiZ-0">video 2 </a></p> ( without SA accounts and no mega.nz )
+YouTobe channel (for more such videos )
+<p><a href="https://github.com/kjeymax/Torrent_2_Gdrive_mirrorbot">备份</a></p>
 
 ## Deploying on Heroku
 Give Star & Fork this repo, then upload **token.pickle** & **credentials.json** to your forks
@@ -20,7 +25,7 @@ Give Star & Fork this repo, then upload **token.pickle** & **credentials.json** 
 
 after this click on the below button 👇👇👇👇
 <p><a href="https://github.com/ayushteke/Torrent_2_Gdrive_mirrorbot/blob/master/heroku-guide.md"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p> 
-
+will not work use workflow method
 
 ## Features supported:
 
